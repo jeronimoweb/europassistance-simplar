@@ -23,4 +23,4 @@
 <h2>Check my website @ <a href="https://simplar.eap.pt/" target="_blank"> EUROP ASSISTANCE - SIMPLAR </a>  </h2>
 
 <p>All rights reserved to europ assistance<br/>
-Developed and designed by Ensaio de cor.</p>
+<p>Developed and designed by Ensaio de cor.</p>
